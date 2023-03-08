@@ -1,0 +1,32 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+.form-color{
+    border: 1px solid black;
+    height: 300px;
+    width: 400px;
+    padding: 20px;
+    margin: 20px auto;
+}
+.d-flex{
+    display: flex;
+}
+.box-main{
+    padding: 20px 0;
+}
+.box-main ul{
+    justify-content: space-around;
+}
+
+.box-main ul li{
+    border: 1px solid black;
+    padding: 8px;
+}
