@@ -10,3 +10,7 @@ $(document).ready(function(){
         $("#txtContent").css("color",valueId)
     })
 })
+
+// làm thực hành 4 nhá
+
+
